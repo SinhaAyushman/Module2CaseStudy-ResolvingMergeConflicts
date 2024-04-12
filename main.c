@@ -15,6 +15,7 @@ Feature1()
 {
  //Sample Code
 }	
+Feature2()
 
 SecurityUpdate()
 {
