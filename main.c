@@ -11,8 +11,11 @@ Initial Security()
 }
 
 Feature2()
+
+SecurityUpdate()
 {
  //Sample Code
 }
 
 }
+
